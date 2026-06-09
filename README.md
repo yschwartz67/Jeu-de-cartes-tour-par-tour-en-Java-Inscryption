@@ -1,2 +1,9 @@
-# Jeu-de-cartes-tour-par-tour-en-Java-Inscryption
-Ce projet a été réalisé sur IntellIJ en groupe de 2 personnes, le but de ce projet était de de reproduire le système de combat de tour par tour inspiré du jeu Inscryption, le jeu a entièrement été créé en Java.
+# Projet Inscyption
+# Description
+Ce projet est un jeu crée en Java reproduisant un jeu de cartes au tour par tour inspiré du jeu Inscryption.
+
+# Captures d'écran du jeu
+
+# Installation du projet
+
+# Fonctionnalités de l'application
